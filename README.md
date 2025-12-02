@@ -1,5 +1,4 @@
-# Architecture Microservices - Documentation Technique
-
+# Orchestration de microservices avec Spring Cloud: Eureka, Gateway et OpenFeign
 ## **Eureka Server**
 <img width="1920" height="1018" alt="Capture1SERVEUR EUREKA" src="https://github.com/user-attachments/assets/b8fbb46b-6b9a-4658-a37f-c951c0d8f6f4" />
 
