@@ -27,7 +27,8 @@ http://localhost:8888/SERVICE-VOITURE/voitures
 <img width="1920" height="633" alt="CaptureGATEWAYDynamicAllVoitures" src="https://github.com/user-attachments/assets/59106e33-56b0-4c79-9d37-52eedc08f502" />
 
 http://localhost:8888/SERVICE-VOITURE/voiture/2
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f1c78783-89d8-4f0c-9ced-d75be4fbde14" />
+<img width="1920" height="869" alt="image" src="https://github.com/user-attachments/assets/195f266d-2d2b-4ada-9a0a-a21c80d2b1c3" />
+
 
 
 
