@@ -26,7 +26,7 @@ Gateway — Mode Dynamique
 http://localhost:8888/SERVICE-VOITURE/voitures
 <img width="1920" height="633" alt="CaptureGATEWAYDynamicAllVoitures" src="https://github.com/user-attachments/assets/59106e33-56b0-4c79-9d37-52eedc08f502" />
 
-http://localhost:8888/SERVICE-VOITURE/voitures/2
+http://localhost:8888/SERVICE-VOITURE/voiture/2
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc87a923-b337-4926-8eaf-ad82985b4095" />
 
 
