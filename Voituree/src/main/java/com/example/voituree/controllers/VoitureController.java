@@ -23,7 +23,7 @@ public class VoitureController {
         return ResponseEntity.ok(voitureRepository.findAll());
     }
 
-    @GetMapping("/voitures/{id}")
+    @GetMapping("/voiture/{id}")
     public ResponseEntity<?> findById(@PathVariable Long id) {
         try {
             Voiture voiture = voitureRepository.findById(id)
