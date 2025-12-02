@@ -26,8 +26,9 @@ Gateway — Mode Dynamique
 http://localhost:8888/SERVICE-VOITURE/voitures
 <img width="1920" height="633" alt="CaptureGATEWAYDynamicAllVoitures" src="https://github.com/user-attachments/assets/59106e33-56b0-4c79-9d37-52eedc08f502" />
 
-http://localhost:8888/SERVICE-VOITURE/voitures/2
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc87a923-b337-4926-8eaf-ad82985b4095" />
+http://localhost:8888/SERVICE-VOITURE/voiture/2
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f1c78783-89d8-4f0c-9ced-d75be4fbde14" />
+
 
 
 Les MicroServices
@@ -44,7 +45,8 @@ http://localhost:8089/voitures
 <img width="1920" height="1080" alt="MicroServiceVoitureALLVoiture" src="https://github.com/user-attachments/assets/f29e898c-b72b-4ae4-a1f3-e567d3db00a3" />
 
 http://localhost:8089/voiture/1
-<img width="1920" height="1080" alt="MicroServiceVoitureId1PNG" src="https://github.com/user-attachments/assets/61faadc6-a795-4b9b-8807-dc9d2e2bc182" />
+<img width="1920" height="1026" alt="image" src="https://github.com/user-attachments/assets/422b976f-2896-44aa-b0b8-079203b8cb82" />
+
 
 http://localhost:8089/voitures/client/1
 <img width="1920" height="541" alt="VoitureClient1PNG" src="https://github.com/user-attachments/assets/b76868ad-9a9a-4272-bb82-eb4aa1edad04" />
